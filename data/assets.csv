@@ -1,0 +1,16 @@
+asset_id,asset_name,asset_type,owner,environment,criticality,lifecycle
+A001,Customer Database,Database,IT Team,Production,High,Active
+A002,Customer Table,Table,Data Team,Production,High,Active
+A003,Customer ETL Pipeline,Pipeline,Data Engineering,Production,High,Active
+A004,Customer Data Warehouse,Warehouse,BI Team,Production,Medium,Active
+A005,Customer Dashboard,Dashboard,Business Team,Production,High,Active
+A006,Orders Database,Database,IT Team,Production,High,Active
+A007,Orders Table,Table,Data Team,Production,High,Active
+A008,Orders ETL Pipeline,Pipeline,Data Engineering,Production,High,Active
+A009,Sales Data Warehouse,Warehouse,BI Team,Production,High,Active
+A010,Sales Dashboard,Dashboard,Business Team,Production,High,Active
+A011,Employee Database,Database,HR IT,Production,Medium,Active
+A012,Employee Table,Table,HR Data Team,Production,Medium,Active
+A013,Employee ETL Pipeline,Pipeline,Data Engineering,Production,Medium,Active
+A014,Employee Warehouse,Warehouse,BI Team,Production,Medium,Active
+A015,Employee Report,Report,HR Team,Production,Medium,Active
