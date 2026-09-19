@@ -1,6 +1,6 @@
 import sqlite3
 
-DB_NAME = "backend/lineage.db"
+DB_NAME = "lineage.db"
 
 
 def get_all_assets():
