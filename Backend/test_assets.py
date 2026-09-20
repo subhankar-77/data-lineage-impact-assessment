@@ -1,6 +1,6 @@
 from assets import get_all_assets, search_assets, get_assets_by_type
 
-print("\n All ASSETS ")
+print("\n ALL ASSETS ")
 assets = get_all_assets()
 for asset in assets:
     print(asset)
