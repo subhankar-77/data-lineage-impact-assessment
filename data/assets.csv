@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asset_id,asset_name,asset_type,owner,department,environment,criticality,lifecycle,data_classification,location,status,last_updated,description
 A001,Customer Database,Database,Customer Data Team,Customer,Production,High,Active,Public,Data Center,Healthy,2025-01-26,Customer source database
 A002,Customer Master Table,Table,Customer Data Team,Customer,Production,High,Active,Confidential,Data Center,Healthy,2025-09-08,Customer data table
@@ -91,3 +92,21 @@ A089,Finance Analytics Dashboard,Dashboard,Business Intelligence Team,Finance,Pr
 A090,Finance Business Report,Report,Business Team,Finance,Production,High,Active,Internal,Cloud,Healthy,2026-04-10,Finance business report
 A091,Legacy Customer Archive,Database,Legacy Systems Team,IT,Development,Low,Deprecated,Restricted,Legacy Server,Inactive,2025-01-04,Legacy disconnected database
 A092,Unused Marketing Report,Report,Marketing Team,Marketing,Testing,Low,Deprecated,Internal,Cloud,Inactive,2025-09-27,Unused disconnected report
+=======
+asset_id,asset_name,asset_type,owner,environment,criticality,lifecycle
+A001,Customer Database,Database,IT Team,Production,High,Active
+A002,Customer Table,Table,Data Team,Production,High,Active
+A003,Customer ETL Pipeline,Pipeline,Data Engineering,Production,High,Active
+A004,Customer Data Warehouse,Warehouse,BI Team,Production,Medium,Active
+A005,Customer Dashboard,Dashboard,Business Team,Production,High,Active
+A006,Orders Database,Database,IT Team,Production,High,Active
+A007,Orders Table,Table,Data Team,Production,High,Active
+A008,Orders ETL Pipeline,Pipeline,Data Engineering,Production,High,Active
+A009,Sales Data Warehouse,Warehouse,BI Team,Production,High,Active
+A010,Sales Dashboard,Dashboard,Business Team,Production,High,Active
+A011,Employee Database,Database,HR IT,Production,Medium,Active
+A012,Employee Table,Table,HR Data Team,Production,Medium,Active
+A013,Employee ETL Pipeline,Pipeline,Data Engineering,Production,Medium,Active
+A014,Employee Warehouse,Warehouse,BI Team,Production,Medium,Active
+A015,Employee Report,Report,HR Team,Production,Medium,Active
+>>>>>>> ea7ea9750b30b61a0cb7ee0b057e6defee960cca
