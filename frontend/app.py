@@ -6,6 +6,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 
+
 # ==================================================
 # BACKEND PATH
 # ==================================================
@@ -865,7 +866,7 @@ st.divider()
 # FOOTER
 # ==================================================
 
-<<<<<<< HEAD
+#<<<<<<< HEAD
 st.caption("""
     Data Lineage & Impact Assessment 
     \n CTS Hackathon Project
@@ -873,9 +874,4 @@ st.caption("""
 
 """)
 
-=======
-st.caption(
-    "Data Lineage & Impact Assessment "
-    "Hackathon Project"
-)
->>>>>>> ea7ea9750b30b61a0cb7ee0b057e6defee960cca
+
