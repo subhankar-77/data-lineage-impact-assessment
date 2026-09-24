@@ -1,0 +1,93 @@
+asset_id,asset_name,asset_type,owner,department,environment,criticality,lifecycle,data_classification,location,status,last_updated,description
+A001,Customer Database,Database,Customer Data Team,Customer,Production,High,Active,Public,Data Center,Healthy,2025-01-26,Customer source database
+A002,Customer Master Table,Table,Customer Data Team,Customer,Production,High,Active,Confidential,Data Center,Healthy,2025-09-08,Customer data table
+A003,Customer Transaction Table,Table,Customer Data Team,Customer,Production,High,Active,Internal,Data Center,Healthy,2025-05-23,Customer data table
+A004,Customer History Table,Table,Customer Data Team,Customer,Production,High,Active,Public,Data Center,Healthy,2026-07-13,Customer data table
+A005,Customer ETL Pipeline 1,Pipeline,Data Engineering,Customer,Production,High,Active,Internal,Cloud,Healthy,2025-03-31,Customer ETL pipeline
+A006,Customer ETL Pipeline 2,Pipeline,Data Engineering,Customer,Production,High,Active,Internal,Cloud,Healthy,2026-08-28,Customer ETL pipeline
+A007,Customer Data Warehouse,Warehouse,BI Team,Customer,Production,High,Active,Internal,Cloud,Healthy,2026-03-09,Customer analytical warehouse
+A008,Customer Analytics Dashboard,Dashboard,Business Intelligence Team,Customer,Production,High,Active,Internal,Cloud,Healthy,2025-02-02,Customer business dashboard
+A009,Customer Business Report,Report,Business Team,Customer,Production,High,Active,Internal,Cloud,Healthy,2025-01-31,Customer business report
+A010,Orders Database,Database,Order Data Team,Sales,Production,High,Active,Public,Data Center,Healthy,2025-08-12,Orders source database
+A011,Orders Master Table,Table,Order Data Team,Sales,Production,High,Active,Internal,Data Center,Healthy,2026-06-02,Orders data table
+A012,Orders Transaction Table,Table,Order Data Team,Sales,Production,High,Active,Public,Data Center,Healthy,2026-07-29,Orders data table
+A013,Orders History Table,Table,Order Data Team,Sales,Production,High,Active,Internal,Data Center,Healthy,2026-07-13,Orders data table
+A014,Orders ETL Pipeline 1,Pipeline,Data Engineering,Sales,Production,High,Active,Internal,Cloud,Healthy,2026-03-06,Orders ETL pipeline
+A015,Orders ETL Pipeline 2,Pipeline,Data Engineering,Sales,Production,High,Active,Internal,Cloud,Healthy,2025-08-14,Orders ETL pipeline
+A016,Orders Data Warehouse,Warehouse,BI Team,Sales,Production,High,Active,Internal,Cloud,Healthy,2026-04-05,Orders analytical warehouse
+A017,Orders Analytics Dashboard,Dashboard,Business Intelligence Team,Sales,Production,High,Active,Internal,Cloud,Healthy,2026-08-27,Orders business dashboard
+A018,Orders Business Report,Report,Business Team,Sales,Production,High,Active,Internal,Cloud,Healthy,2025-10-12,Orders business report
+A019,Employee Database,Database,HR Data Team,Human Resources,Production,Medium,Active,Public,Data Center,Healthy,2025-06-13,Employee source database
+A020,Employee Master Table,Table,HR Data Team,Human Resources,Production,Medium,Active,Restricted,Data Center,Healthy,2025-12-15,Employee data table
+A021,Employee Transaction Table,Table,HR Data Team,Human Resources,Production,Medium,Active,Confidential,Data Center,Healthy,2025-06-09,Employee data table
+A022,Employee History Table,Table,HR Data Team,Human Resources,Production,Medium,Active,Internal,Data Center,Healthy,2025-12-11,Employee data table
+A023,Employee ETL Pipeline 1,Pipeline,Data Engineering,Human Resources,Production,Medium,Active,Internal,Cloud,Healthy,2025-04-15,Employee ETL pipeline
+A024,Employee ETL Pipeline 2,Pipeline,Data Engineering,Human Resources,Production,Medium,Active,Internal,Cloud,Healthy,2025-04-05,Employee ETL pipeline
+A025,Employee Data Warehouse,Warehouse,BI Team,Human Resources,Production,Medium,Active,Internal,Cloud,Healthy,2026-01-25,Employee analytical warehouse
+A026,Employee Analytics Dashboard,Dashboard,Business Intelligence Team,Human Resources,Production,Medium,Active,Internal,Cloud,Healthy,2025-04-10,Employee business dashboard
+A027,Employee Business Report,Report,Business Team,Human Resources,Production,Medium,Active,Internal,Cloud,Healthy,2026-01-03,Employee business report
+A028,Product Database,Database,Product Data Team,Product,Production,High,Active,Confidential,Data Center,Healthy,2026-09-11,Product source database
+A029,Product Master Table,Table,Product Data Team,Product,Production,High,Active,Confidential,Data Center,Healthy,2025-02-14,Product data table
+A030,Product Transaction Table,Table,Product Data Team,Product,Production,High,Active,Restricted,Data Center,Healthy,2026-07-04,Product data table
+A031,Product History Table,Table,Product Data Team,Product,Production,High,Active,Public,Data Center,Healthy,2026-01-23,Product data table
+A032,Product ETL Pipeline 1,Pipeline,Data Engineering,Product,Production,High,Active,Internal,Cloud,Healthy,2025-03-22,Product ETL pipeline
+A033,Product ETL Pipeline 2,Pipeline,Data Engineering,Product,Production,High,Active,Internal,Cloud,Healthy,2026-07-20,Product ETL pipeline
+A034,Product Data Warehouse,Warehouse,BI Team,Product,Production,High,Active,Internal,Cloud,Healthy,2025-10-28,Product analytical warehouse
+A035,Product Analytics Dashboard,Dashboard,Business Intelligence Team,Product,Production,High,Active,Internal,Cloud,Healthy,2026-01-06,Product business dashboard
+A036,Product Business Report,Report,Business Team,Product,Production,High,Active,Internal,Cloud,Healthy,2026-08-15,Product business report
+A037,Payment Database,Database,Finance Data Team,Finance,Production,High,Active,Internal,Data Center,Healthy,2025-03-13,Payment source database
+A038,Payment Master Table,Table,Finance Data Team,Finance,Production,High,Active,Public,Data Center,Healthy,2025-08-22,Payment data table
+A039,Payment Transaction Table,Table,Finance Data Team,Finance,Production,High,Active,Confidential,Data Center,Healthy,2025-03-23,Payment data table
+A040,Payment History Table,Table,Finance Data Team,Finance,Production,High,Active,Internal,Data Center,Healthy,2025-04-14,Payment data table
+A041,Payment ETL Pipeline 1,Pipeline,Data Engineering,Finance,Production,High,Active,Internal,Cloud,Healthy,2026-01-25,Payment ETL pipeline
+A042,Payment ETL Pipeline 2,Pipeline,Data Engineering,Finance,Production,High,Active,Internal,Cloud,Healthy,2025-10-12,Payment ETL pipeline
+A043,Payment Data Warehouse,Warehouse,BI Team,Finance,Production,High,Active,Internal,Cloud,Healthy,2026-04-10,Payment analytical warehouse
+A044,Payment Analytics Dashboard,Dashboard,Business Intelligence Team,Finance,Production,High,Active,Internal,Cloud,Healthy,2026-01-09,Payment business dashboard
+A045,Payment Business Report,Report,Business Team,Finance,Production,High,Active,Internal,Cloud,Healthy,2025-06-16,Payment business report
+A046,Inventory Database,Database,Inventory Data Team,Operations,Production,High,Active,Confidential,Data Center,Healthy,2025-12-30,Inventory source database
+A047,Inventory Master Table,Table,Inventory Data Team,Operations,Production,High,Active,Internal,Data Center,Healthy,2025-10-01,Inventory data table
+A048,Inventory Transaction Table,Table,Inventory Data Team,Operations,Production,High,Active,Public,Data Center,Healthy,2025-06-25,Inventory data table
+A049,Inventory History Table,Table,Inventory Data Team,Operations,Production,High,Active,Internal,Data Center,Healthy,2025-06-17,Inventory data table
+A050,Inventory ETL Pipeline 1,Pipeline,Data Engineering,Operations,Production,High,Active,Internal,Cloud,Healthy,2026-04-19,Inventory ETL pipeline
+A051,Inventory ETL Pipeline 2,Pipeline,Data Engineering,Operations,Production,High,Active,Internal,Cloud,Healthy,2026-01-24,Inventory ETL pipeline
+A052,Inventory Data Warehouse,Warehouse,BI Team,Operations,Production,High,Active,Internal,Cloud,Healthy,2025-10-04,Inventory analytical warehouse
+A053,Inventory Analytics Dashboard,Dashboard,Business Intelligence Team,Operations,Production,High,Active,Internal,Cloud,Healthy,2026-07-25,Inventory business dashboard
+A054,Inventory Business Report,Report,Business Team,Operations,Production,High,Active,Internal,Cloud,Healthy,2025-08-13,Inventory business report
+A055,Marketing Database,Database,Marketing Data Team,Marketing,Production,Medium,Active,Confidential,Data Center,Healthy,2025-02-27,Marketing source database
+A056,Marketing Master Table,Table,Marketing Data Team,Marketing,Production,Medium,Active,Internal,Data Center,Healthy,2025-02-02,Marketing data table
+A057,Marketing Transaction Table,Table,Marketing Data Team,Marketing,Production,Medium,Active,Confidential,Data Center,Healthy,2026-02-15,Marketing data table
+A058,Marketing History Table,Table,Marketing Data Team,Marketing,Production,Medium,Active,Confidential,Data Center,Healthy,2025-03-09,Marketing data table
+A059,Marketing ETL Pipeline 1,Pipeline,Data Engineering,Marketing,Production,Medium,Active,Internal,Cloud,Healthy,2025-08-05,Marketing ETL pipeline
+A060,Marketing ETL Pipeline 2,Pipeline,Data Engineering,Marketing,Production,Medium,Active,Internal,Cloud,Healthy,2026-08-04,Marketing ETL pipeline
+A061,Marketing Data Warehouse,Warehouse,BI Team,Marketing,Production,Medium,Active,Internal,Cloud,Healthy,2025-11-19,Marketing analytical warehouse
+A062,Marketing Analytics Dashboard,Dashboard,Business Intelligence Team,Marketing,Production,Medium,Active,Internal,Cloud,Healthy,2025-08-06,Marketing business dashboard
+A063,Marketing Business Report,Report,Business Team,Marketing,Production,Medium,Active,Internal,Cloud,Healthy,2026-05-27,Marketing business report
+A064,Logistics Database,Database,Logistics Data Team,Operations,Production,High,Active,Restricted,Data Center,Healthy,2026-04-15,Logistics source database
+A065,Logistics Master Table,Table,Logistics Data Team,Operations,Production,High,Active,Internal,Data Center,Healthy,2025-09-29,Logistics data table
+A066,Logistics Transaction Table,Table,Logistics Data Team,Operations,Production,High,Active,Internal,Data Center,Healthy,2025-09-10,Logistics data table
+A067,Logistics History Table,Table,Logistics Data Team,Operations,Production,High,Active,Confidential,Data Center,Healthy,2026-08-22,Logistics data table
+A068,Logistics ETL Pipeline 1,Pipeline,Data Engineering,Operations,Production,High,Active,Internal,Cloud,Healthy,2026-03-15,Logistics ETL pipeline
+A069,Logistics ETL Pipeline 2,Pipeline,Data Engineering,Operations,Production,High,Active,Internal,Cloud,Healthy,2026-08-21,Logistics ETL pipeline
+A070,Logistics Data Warehouse,Warehouse,BI Team,Operations,Production,High,Active,Internal,Cloud,Healthy,2026-02-13,Logistics analytical warehouse
+A071,Logistics Analytics Dashboard,Dashboard,Business Intelligence Team,Operations,Production,High,Active,Internal,Cloud,Healthy,2026-01-06,Logistics business dashboard
+A072,Logistics Business Report,Report,Business Team,Operations,Production,High,Active,Internal,Cloud,Healthy,2025-08-13,Logistics business report
+A073,Supplier Database,Database,Supplier Data Team,Procurement,Production,Medium,Active,Internal,Data Center,Healthy,2026-06-06,Supplier source database
+A074,Supplier Master Table,Table,Supplier Data Team,Procurement,Production,Medium,Active,Restricted,Data Center,Healthy,2025-04-04,Supplier data table
+A075,Supplier Transaction Table,Table,Supplier Data Team,Procurement,Production,Medium,Active,Public,Data Center,Healthy,2025-04-23,Supplier data table
+A076,Supplier History Table,Table,Supplier Data Team,Procurement,Production,Medium,Active,Internal,Data Center,Healthy,2025-06-13,Supplier data table
+A077,Supplier ETL Pipeline 1,Pipeline,Data Engineering,Procurement,Production,Medium,Active,Internal,Cloud,Healthy,2026-03-09,Supplier ETL pipeline
+A078,Supplier ETL Pipeline 2,Pipeline,Data Engineering,Procurement,Production,Medium,Active,Internal,Cloud,Healthy,2026-09-03,Supplier ETL pipeline
+A079,Supplier Data Warehouse,Warehouse,BI Team,Procurement,Production,Medium,Active,Internal,Cloud,Healthy,2025-03-07,Supplier analytical warehouse
+A080,Supplier Analytics Dashboard,Dashboard,Business Intelligence Team,Procurement,Production,Medium,Active,Internal,Cloud,Healthy,2026-01-30,Supplier business dashboard
+A081,Supplier Business Report,Report,Business Team,Procurement,Production,Medium,Active,Internal,Cloud,Healthy,2026-01-26,Supplier business report
+A082,Finance Database,Database,Finance Data Team,Finance,Production,High,Active,Restricted,Data Center,Healthy,2026-06-26,Finance source database
+A083,Finance Master Table,Table,Finance Data Team,Finance,Production,High,Active,Confidential,Data Center,Healthy,2026-07-21,Finance data table
+A084,Finance Transaction Table,Table,Finance Data Team,Finance,Production,High,Active,Public,Data Center,Healthy,2025-04-28,Finance data table
+A085,Finance History Table,Table,Finance Data Team,Finance,Production,High,Active,Confidential,Data Center,Healthy,2025-12-15,Finance data table
+A086,Finance ETL Pipeline 1,Pipeline,Data Engineering,Finance,Production,High,Active,Internal,Cloud,Healthy,2025-04-25,Finance ETL pipeline
+A087,Finance ETL Pipeline 2,Pipeline,Data Engineering,Finance,Production,High,Active,Internal,Cloud,Healthy,2025-10-28,Finance ETL pipeline
+A088,Finance Data Warehouse,Warehouse,BI Team,Finance,Production,High,Active,Internal,Cloud,Healthy,2026-03-22,Finance analytical warehouse
+A089,Finance Analytics Dashboard,Dashboard,Business Intelligence Team,Finance,Production,High,Active,Internal,Cloud,Healthy,2025-06-11,Finance business dashboard
+A090,Finance Business Report,Report,Business Team,Finance,Production,High,Active,Internal,Cloud,Healthy,2026-04-10,Finance business report
+A091,Legacy Customer Archive,Database,Legacy Systems Team,IT,Development,Low,Deprecated,Restricted,Legacy Server,Inactive,2025-01-04,Legacy disconnected database
+A092,Unused Marketing Report,Report,Marketing Team,Marketing,Testing,Low,Deprecated,Internal,Cloud,Inactive,2025-09-27,Unused disconnected report
