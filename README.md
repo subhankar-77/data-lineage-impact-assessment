@@ -80,8 +80,8 @@ data_lineage_impact_assesment/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Subhayan016/data_lineage_impact_assesment.git
-cd data_lineage_impact_assesment
+git clone https://github.com/subhankar-77/data-lineage-impact-assesment.git
+cd data-lineage-impact-assesment
 ```
 
 ### 2. Create a virtual environment (recommended)
