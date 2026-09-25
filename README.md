@@ -5,7 +5,7 @@ Group project for Data Lineage and Impact Assessment - NPN Hackathon (Cognizant)
 
 A prototype system for **asset discovery, data lineage exploration, and change impact assessment** — built for the NPN Hackathon (Cognizant).
 
-The tool models an organization's data assets (databases, tables, pipelines, warehouses, dashboards, reports) as a **directed dependency graph**, and lets a user pick any asset to see:
+The tool models an organization's data assets (databases, tables, pipelines, warehouses, dashboards, reports) as a **undirected dependency graph**, and lets a user pick any asset to see:
 - what feeds into it (**upstream**)
 - what it directly feeds (**direct downstream impact**)
 - everything downstream of that, however many hops away (**transitive impact**)
